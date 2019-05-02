@@ -1,0 +1,1 @@
+# Extension: Auto add friends facebook

@@ -1,0 +1,11 @@
+{
+  "name": "autobeau",
+  "author": "Thaycacac<thaycacac@gmail.com>",
+  "private": true,
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaycacac/auto-add-friends-facebook.git"
+  },
+  "dependencies": {}
+}

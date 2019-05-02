@@ -1,0 +1,38 @@
+.container {
+  height: 150px;
+  width: 300px;
+}
+
+.title {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.wrap-limit {
+  display: flex;
+}
+
+.text-limit {
+  margin: auto 0;
+  padding: 0 0.5rem 0 2rem;
+}
+
+.limit {
+  width: 194px;
+  height: 18px;
+}
+
+.feedback {
+  text-align: center;
+}
+
+#start {
+  background-color: #4267b2;
+  border-color: #29487d;
+  color: white;
+  font-size: 12px;
+  height: 22px;
+  line-height: 18px;
+  margin: 9px 31px;
+  width: 240px;
+}
